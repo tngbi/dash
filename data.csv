@@ -1,7 +1,6 @@
-"EmployeeID,FirstName,LastName,Email,Department"
-"1,John,Doe,john.doe@company.com,Finance"
-"2,Jane,Smith,jane.smith@company.com,Marketing"
-"3,Jim,Beam,jim.beam@company.com,Sales"
-"4,Jessica,Jones,jessica.jones@company.com,HR"
-"5,Jason,Bourne,jason.bourne@company.com,IT"
-"5,Jason,Bourne,jason.bourne@company.com,EC"
+EmployeeID,FirstName,LastName,Email,Department
+1,John,Doe,john.doe@company.com,Finance
+2,Jane,Smith,jane.smith@company.com,Marketing
+3,Jim,Beam,jim.beam@company.com,Sales
+4,Jessica,Jones,jessica.jones@company.com,HR
+5,Jason,Bourne,jason.bourne@company.com,IT
